@@ -1,0 +1,45 @@
+c:\users\t-rex-xp\documents\visual studio 2013\Projects\ddddddddd\ddddddddd\bin\Debug\ddddddddd.exe
+c:\users\t-rex-xp\documents\visual studio 2013\Projects\ddddddddd\ddddddddd\bin\Debug\ddddddddd.pdb
+c:\users\t-rex-xp\documents\visual studio 2013\Projects\ddddddddd\ddddddddd\obj\Debug\ddddddddd.csprojResolveAssemblyReference.cache
+c:\users\t-rex-xp\documents\visual studio 2013\Projects\ddddddddd\ddddddddd\obj\Debug\ddddddddd.Properties.Resources.resources
+c:\users\t-rex-xp\documents\visual studio 2013\Projects\ddddddddd\ddddddddd\obj\Debug\ddddddddd.csproj.GenerateResource.Cache
+c:\users\t-rex-xp\documents\visual studio 2013\Projects\ddddddddd\ddddddddd\obj\Debug\ddddddddd.exe
+c:\users\t-rex-xp\documents\visual studio 2013\Projects\ddddddddd\ddddddddd\obj\Debug\ddddddddd.pdb
+C:\Users\T-REX-XP\documents\visual studio 2013\Projects\ddddddddd\ddddddddd\obj\Debug\ddddddddd.Form1.resources
+C:\Users\T-REX-XP\documents\visual studio 2013\Projects\ddddddddd\ddddddddd\bin\Debug\ddddddddd.exe.config
+C:\Users\T-REX-XP\documents\visual studio 2013\Projects\ddddddddd\ddddddddd\bin\Debug\Dapper.dll
+C:\Users\T-REX-XP\documents\visual studio 2013\Projects\ddddddddd\ddddddddd\bin\Debug\System.Data.SQLite.dll
+C:\Users\T-REX-XP\documents\visual studio 2013\Projects\ddddddddd\ddddddddd\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\T-REX-XP\documents\visual studio 2013\Projects\ddddddddd\ddddddddd\bin\Debug\Dapper.pdb
+C:\Users\T-REX-XP\documents\visual studio 2013\Projects\ddddddddd\ddddddddd\bin\Debug\Dapper.xml
+C:\Users\T-REX-XP\documents\visual studio 2013\Projects\ddddddddd\ddddddddd\bin\Debug\System.Data.SQLite.xml
+C:\Users\ynazarenko\Desktop\ddddddddd\ddddddddd\bin\Debug\ddddddddd.exe.config
+C:\Users\ynazarenko\Desktop\ddddddddd\ddddddddd\obj\Debug\ddddddddd.exe
+C:\Users\ynazarenko\Desktop\ddddddddd\ddddddddd\obj\Debug\ddddddddd.pdb
+C:\Users\ynazarenko\Desktop\ddddddddd\ddddddddd\obj\Debug\ddddddddd.csprojResolveAssemblyReference.cache
+C:\Users\ynazarenko\Desktop\ddddddddd\ddddddddd\obj\Debug\ddddddddd.frmMain.resources
+C:\Users\ynazarenko\Desktop\ddddddddd\ddddddddd\obj\Debug\ddddddddd.Properties.Resources.resources
+C:\Users\ynazarenko\Desktop\ddddddddd\ddddddddd\obj\Debug\ddddddddd.csproj.GenerateResource.Cache
+C:\Users\ynazarenko\Desktop\ddddddddd\ddddddddd\bin\Debug\ddddddddd.exe
+C:\Users\ynazarenko\Desktop\ddddddddd\ddddddddd\bin\Debug\ddddddddd.pdb
+C:\Users\ynazarenko\Desktop\ddddddddd\ddddddddd\bin\Debug\Dapper.dll
+C:\Users\ynazarenko\Desktop\ddddddddd\ddddddddd\bin\Debug\System.Data.SQLite.dll
+C:\Users\ynazarenko\Desktop\ddddddddd\ddddddddd\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ynazarenko\Desktop\ddddddddd\ddddddddd\bin\Debug\Dapper.pdb
+C:\Users\ynazarenko\Desktop\ddddddddd\ddddddddd\bin\Debug\Dapper.xml
+C:\Users\ynazarenko\Desktop\ddddddddd\ddddddddd\bin\Debug\System.Data.SQLite.xml
+C:\Users\T-REX-XP\Downloads\ddddddddd\ddddddddd\ddddddddd\bin\Debug\ddddddddd.exe.config
+C:\Users\T-REX-XP\Downloads\ddddddddd\ddddddddd\ddddddddd\obj\Debug\ddddddddd.exe
+C:\Users\T-REX-XP\Downloads\ddddddddd\ddddddddd\ddddddddd\obj\Debug\ddddddddd.pdb
+C:\Users\T-REX-XP\Downloads\ddddddddd\ddddddddd\ddddddddd\bin\Debug\ddddddddd.exe
+C:\Users\T-REX-XP\Downloads\ddddddddd\ddddddddd\ddddddddd\bin\Debug\ddddddddd.pdb
+C:\Users\T-REX-XP\Downloads\ddddddddd\ddddddddd\ddddddddd\bin\Debug\Dapper.dll
+C:\Users\T-REX-XP\Downloads\ddddddddd\ddddddddd\ddddddddd\bin\Debug\System.Data.SQLite.dll
+C:\Users\T-REX-XP\Downloads\ddddddddd\ddddddddd\ddddddddd\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\T-REX-XP\Downloads\ddddddddd\ddddddddd\ddddddddd\bin\Debug\Dapper.pdb
+C:\Users\T-REX-XP\Downloads\ddddddddd\ddddddddd\ddddddddd\bin\Debug\Dapper.xml
+C:\Users\T-REX-XP\Downloads\ddddddddd\ddddddddd\ddddddddd\bin\Debug\System.Data.SQLite.xml
+C:\Users\T-REX-XP\Downloads\ddddddddd\ddddddddd\ddddddddd\obj\Debug\ddddddddd.csprojResolveAssemblyReference.cache
+C:\Users\T-REX-XP\Downloads\ddddddddd\ddddddddd\ddddddddd\obj\Debug\ddddddddd.frmMain.resources
+C:\Users\T-REX-XP\Downloads\ddddddddd\ddddddddd\ddddddddd\obj\Debug\ddddddddd.Properties.Resources.resources
+C:\Users\T-REX-XP\Downloads\ddddddddd\ddddddddd\ddddddddd\obj\Debug\ddddddddd.csproj.GenerateResource.Cache

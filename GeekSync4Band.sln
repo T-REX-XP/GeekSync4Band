@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncAgent", "ddddddddd\SyncAgent.csproj", "{74CB9108-77B0-497D-AA94-2DC4FFC1C438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBBNOVA", "BBBNOVA\BBBNOVA.csproj", "{FCEF651A-5065-4423-B806-52DDEAD0F3C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarChart", "BarChart\BarChart.csproj", "{DF2CF875-A572-4B0A-96F3-6DC485D65C3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USBClassLibrary", "USBClassLibrary\USBClassLibrary.csproj", "{B89A0E26-8A40-4EB2-BEEC-100359BCE76E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74CB9108-77B0-497D-AA94-2DC4FFC1C438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74CB9108-77B0-497D-AA94-2DC4FFC1C438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74CB9108-77B0-497D-AA94-2DC4FFC1C438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74CB9108-77B0-497D-AA94-2DC4FFC1C438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCEF651A-5065-4423-B806-52DDEAD0F3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEF651A-5065-4423-B806-52DDEAD0F3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEF651A-5065-4423-B806-52DDEAD0F3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEF651A-5065-4423-B806-52DDEAD0F3C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF2CF875-A572-4B0A-96F3-6DC485D65C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF2CF875-A572-4B0A-96F3-6DC485D65C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF2CF875-A572-4B0A-96F3-6DC485D65C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF2CF875-A572-4B0A-96F3-6DC485D65C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B89A0E26-8A40-4EB2-BEEC-100359BCE76E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B89A0E26-8A40-4EB2-BEEC-100359BCE76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B89A0E26-8A40-4EB2-BEEC-100359BCE76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B89A0E26-8A40-4EB2-BEEC-100359BCE76E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

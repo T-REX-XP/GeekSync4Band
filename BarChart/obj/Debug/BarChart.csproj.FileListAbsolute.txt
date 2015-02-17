@@ -1,0 +1,16 @@
+C:\Users\T-REX-XP\Downloads\ddddddddd\GeekSyncBand\BarChart\bin\Debug\BarChart.dll
+C:\Users\T-REX-XP\Downloads\ddddddddd\GeekSyncBand\BarChart\bin\Debug\BarChart.pdb
+C:\Users\T-REX-XP\Downloads\ddddddddd\GeekSyncBand\BarChart\obj\Debug\BarChart.csprojResolveAssemblyReference.cache
+C:\Users\T-REX-XP\Downloads\ddddddddd\GeekSyncBand\BarChart\obj\Debug\BarChart.HBarChart.resources
+C:\Users\T-REX-XP\Downloads\ddddddddd\GeekSyncBand\BarChart\obj\Debug\BarChart.csproj.GenerateResource.Cache
+C:\Users\T-REX-XP\Downloads\ddddddddd\GeekSyncBand\BarChart\obj\Debug\BarChart.dll
+C:\Users\T-REX-XP\Downloads\ddddddddd\GeekSyncBand\BarChart\obj\Debug\BarChart.pdb
+C:\Users\T-REX-XP\Downloads\ddddddddd\GeekSyncBand\BarChart\bin\Debug\BarChart.dll.config
+C:\Users\ynazarenko\Desktop\GeekSyncBand\BarChart\bin\Debug\BarChart.dll.config
+C:\Users\ynazarenko\Desktop\GeekSyncBand\BarChart\bin\Debug\BarChart.dll
+C:\Users\ynazarenko\Desktop\GeekSyncBand\BarChart\bin\Debug\BarChart.pdb
+C:\Users\ynazarenko\Desktop\GeekSyncBand\BarChart\obj\Debug\BarChart.csprojResolveAssemblyReference.cache
+C:\Users\ynazarenko\Desktop\GeekSyncBand\BarChart\obj\Debug\BarChart.HBarChart.resources
+C:\Users\ynazarenko\Desktop\GeekSyncBand\BarChart\obj\Debug\BarChart.csproj.GenerateResource.Cache
+C:\Users\ynazarenko\Desktop\GeekSyncBand\BarChart\obj\Debug\BarChart.dll
+C:\Users\ynazarenko\Desktop\GeekSyncBand\BarChart\obj\Debug\BarChart.pdb

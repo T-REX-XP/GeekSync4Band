@@ -1,0 +1,24 @@
+C:\Users\T-REX-XP\Desktop\USBClassLibrary\bin\Debug\USBClassLibrary.dll
+C:\Users\T-REX-XP\Desktop\USBClassLibrary\bin\Debug\USBClassLibrary.pdb
+C:\Users\T-REX-XP\Desktop\USBClassLibrary\obj\Debug\USBClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\T-REX-XP\Desktop\USBClassLibrary\obj\Debug\USBClassLibrary.dll
+C:\Users\T-REX-XP\Desktop\USBClassLibrary\obj\Debug\USBClassLibrary.pdb
+C:\Users\T-REX-XP\Documents\Visual Studio 2013\Projects\GeekSync4Band2\USBClassLibrary\bin\Debug\USBClassLibrary.dll
+C:\Users\T-REX-XP\Documents\Visual Studio 2013\Projects\GeekSync4Band2\USBClassLibrary\bin\Debug\USBClassLibrary.pdb
+C:\Users\T-REX-XP\Documents\Visual Studio 2013\Projects\GeekSync4Band2\USBClassLibrary\obj\Debug\USBClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\T-REX-XP\Documents\Visual Studio 2013\Projects\GeekSync4Band2\USBClassLibrary\obj\Debug\USBClassLibrary.dll
+C:\Users\T-REX-XP\Documents\Visual Studio 2013\Projects\GeekSync4Band2\USBClassLibrary\obj\Debug\USBClassLibrary.pdb
+C:\Pro\GeekSync4Band2\USBClassLibrary\bin\Debug\USBClassLibrary.dll
+C:\Pro\GeekSync4Band2\USBClassLibrary\bin\Debug\USBClassLibrary.pdb
+C:\Pro\GeekSync4Band2\USBClassLibrary\obj\Debug\USBClassLibrary.csprojResolveAssemblyReference.cache
+C:\Pro\GeekSync4Band2\USBClassLibrary\obj\Debug\USBClassLibrary.dll
+C:\Pro\GeekSync4Band2\USBClassLibrary\obj\Debug\USBClassLibrary.pdb
+C:\Users\T-REX-XP\Downloads\ddddddddd\GeekSyncBand\USBClassLibrary\bin\Debug\USBClassLibrary.dll
+C:\Users\T-REX-XP\Downloads\ddddddddd\GeekSyncBand\USBClassLibrary\bin\Debug\USBClassLibrary.pdb
+C:\Users\T-REX-XP\Downloads\ddddddddd\GeekSyncBand\USBClassLibrary\obj\Debug\USBClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\T-REX-XP\Downloads\ddddddddd\GeekSyncBand\USBClassLibrary\obj\Debug\USBClassLibrary.dll
+C:\Users\T-REX-XP\Downloads\ddddddddd\GeekSyncBand\USBClassLibrary\obj\Debug\USBClassLibrary.pdb
+C:\Users\ynazarenko\Desktop\GeekSyncBand\USBClassLibrary\bin\Debug\USBClassLibrary.dll
+C:\Users\ynazarenko\Desktop\GeekSyncBand\USBClassLibrary\bin\Debug\USBClassLibrary.pdb
+C:\Users\ynazarenko\Desktop\GeekSyncBand\USBClassLibrary\obj\Debug\USBClassLibrary.dll
+C:\Users\ynazarenko\Desktop\GeekSyncBand\USBClassLibrary\obj\Debug\USBClassLibrary.pdb
