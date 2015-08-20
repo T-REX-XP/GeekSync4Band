@@ -105,7 +105,7 @@ namespace MainTheme
                 Invalidate();
             }
         }
-        public new int MaxLength
+        public int MaxLength
         {
             get { return _maxchars; }
             set

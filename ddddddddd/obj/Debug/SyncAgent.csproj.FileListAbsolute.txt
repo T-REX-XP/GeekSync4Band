@@ -65,3 +65,83 @@ C:\Users\ynazarenko\Desktop\GeekSyncBand\ddddddddd\bin\Debug\System.Data.SQLite.
 C:\Users\ynazarenko\Desktop\GeekSyncBand\ddddddddd\obj\Debug\GeekSync4Band.exe
 C:\Users\ynazarenko\Desktop\GeekSyncBand\ddddddddd\obj\Debug\GeekSync4Band.pdb
 C:\Users\ynazarenko\Desktop\GeekSyncBand\ddddddddd\obj\Debug\GeekSync4Band.Form1.resources
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\GeekSync4Band.exe.config
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\obj\Debug\GeekSync4Band.exe
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\obj\Debug\GeekSync4Band.pdb
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\obj\Debug\SyncAgent.csprojResolveAssemblyReference.cache
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\obj\Debug\GeekSync4Band.Properties.Resources.resources
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\obj\Debug\SyncAgent.csproj.GenerateResource.Cache
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\NLog.config
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\GeekSync4Band.exe
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\GeekSync4Band.pdb
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\BarChart.dll
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\Dapper.dll
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\NLog.dll
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\System.Data.SQLite.dll
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\USBClassLibrary.dll
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\BarChart.pdb
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\USBClassLibrary.pdb
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\BNCtrls.pdb
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\Dapper.pdb
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\Dapper.xml
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\NLog.xml
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\System.Data.SQLite.xml
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\obj\Debug\GeekSync4Band.FormMain.resources
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\EntityFramework.dll
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\EntityFramework.xml
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\ddddddddd\obj\Debug\GeekSync4Band.Forms.formAbout.resources
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\GeekSync4Band.exe.config
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\obj\Debug\GeekSync4Band.exe
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\obj\Debug\GeekSync4Band.pdb
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\obj\Debug\GeekSync4Band.FormMain.resources
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\obj\Debug\GeekSync4Band.Forms.formAbout.resources
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\obj\Debug\GeekSync4Band.Properties.Resources.resources
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\obj\Debug\SyncAgent.csproj.GenerateResource.Cache
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\NLog.config
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\GeekSync4Band.exe
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\GeekSync4Band.pdb
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\BarChart.dll
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\Dapper.dll
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\EntityFramework.dll
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\NLog.dll
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\System.Data.SQLite.dll
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\USBClassLibrary.dll
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\BarChart.pdb
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\USBClassLibrary.pdb
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\Dapper.pdb
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\Dapper.xml
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\EntityFramework.xml
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\NLog.xml
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\bin\Debug\System.Data.SQLite.xml
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\ddddddddd\obj\Debug\SyncAgent.csprojResolveAssemblyReference.cache
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\GeekSync4Band.exe.config
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\obj\Debug\GeekSync4Band.exe
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\obj\Debug\GeekSync4Band.pdb
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\NLog.config
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\GeekSync4Band.exe
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\GeekSync4Band.pdb
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\BarChart.dll
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\Dapper.dll
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\EntityFramework.dll
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\NLog.dll
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\System.Data.SQLite.dll
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\USBClassLibrary.dll
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\BarChart.pdb
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\USBClassLibrary.pdb
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\BNCtrls.pdb
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\Dapper.pdb
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\Dapper.xml
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\EntityFramework.xml
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\NLog.xml
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\bin\Debug\System.Data.SQLite.xml
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\obj\Debug\SyncAgent.csprojResolveAssemblyReference.cache
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\obj\Debug\GeekSync4Band.FormMain.resources
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\obj\Debug\GeekSync4Band.Forms.formAbout.resources
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\obj\Debug\GeekSync4Band.Properties.Resources.resources
+C:\Users\ynazarenko\Documents\GitHub\GeekSync4Band\ddddddddd\obj\Debug\SyncAgent.csproj.GenerateResource.Cache

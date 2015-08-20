@@ -93,11 +93,21 @@ namespace GeekSync4Band.Manager
 
         public DBDevice GetDevice(string mac)
         {
-            //  Connection.Open();
-            DBDevice result = Connection.Query<DBDevice>(
-                @"SELECT d_name, d_mac, d_weight, d_height, d_sex, d_age, d_goal, d_fw
+            DBDevice result;
+            try
+            {
+                //  Connection.Open();
+                 result = Connection.Query<DBDevice>(
+                    @"SELECT d_name, d_mac, d_weight, d_height, d_sex, d_age, d_goal, d_fw
                       FROM Devices
                       WHERE d_mac = @mac", new { mac }).FirstOrDefault();
+               
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Something wrong with DB. Please try to restart application.");
+                result = null;
+            }
             return result;
         }
 

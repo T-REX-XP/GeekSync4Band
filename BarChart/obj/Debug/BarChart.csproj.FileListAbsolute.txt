@@ -14,3 +14,11 @@ C:\Users\ynazarenko\Desktop\GeekSyncBand\BarChart\obj\Debug\BarChart.HBarChart.r
 C:\Users\ynazarenko\Desktop\GeekSyncBand\BarChart\obj\Debug\BarChart.csproj.GenerateResource.Cache
 C:\Users\ynazarenko\Desktop\GeekSyncBand\BarChart\obj\Debug\BarChart.dll
 C:\Users\ynazarenko\Desktop\GeekSyncBand\BarChart\obj\Debug\BarChart.pdb
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\BarChart\bin\Debug\BarChart.dll.config
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\BarChart\bin\Debug\BarChart.dll
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\BarChart\bin\Debug\BarChart.pdb
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\BarChart\obj\Debug\BarChart.csprojResolveAssemblyReference.cache
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\BarChart\obj\Debug\BarChart.HBarChart.resources
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\BarChart\obj\Debug\BarChart.csproj.GenerateResource.Cache
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\BarChart\obj\Debug\BarChart.dll
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\BarChart\obj\Debug\BarChart.pdb

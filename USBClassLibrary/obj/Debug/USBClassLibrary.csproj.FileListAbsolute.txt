@@ -22,3 +22,13 @@ C:\Users\ynazarenko\Desktop\GeekSyncBand\USBClassLibrary\bin\Debug\USBClassLibra
 C:\Users\ynazarenko\Desktop\GeekSyncBand\USBClassLibrary\bin\Debug\USBClassLibrary.pdb
 C:\Users\ynazarenko\Desktop\GeekSyncBand\USBClassLibrary\obj\Debug\USBClassLibrary.dll
 C:\Users\ynazarenko\Desktop\GeekSyncBand\USBClassLibrary\obj\Debug\USBClassLibrary.pdb
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\USBClassLibrary\bin\Debug\USBClassLibrary.dll
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\USBClassLibrary\bin\Debug\USBClassLibrary.pdb
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\USBClassLibrary\obj\Debug\USBClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\USBClassLibrary\obj\Debug\USBClassLibrary.dll
+C:\Users\T-REX-XP-PC\Desktop\GeekSync4Band-master\USBClassLibrary\obj\Debug\USBClassLibrary.pdb
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\USBClassLibrary\bin\Debug\USBClassLibrary.dll
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\USBClassLibrary\bin\Debug\USBClassLibrary.pdb
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\USBClassLibrary\obj\Debug\USBClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\USBClassLibrary\obj\Debug\USBClassLibrary.dll
+C:\Users\ynazarenko\Downloads\GeekSync4Band-master (2)\GeekSync4Band-master\USBClassLibrary\obj\Debug\USBClassLibrary.pdb

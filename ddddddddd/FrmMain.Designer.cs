@@ -228,6 +228,7 @@ namespace GeekSync4Band
             this.viewStatisticToolStripMenuItem.Name = "viewStatisticToolStripMenuItem";
             this.viewStatisticToolStripMenuItem.Size = new System.Drawing.Size(143, 22);
             this.viewStatisticToolStripMenuItem.Text = "View Statistic";
+            this.viewStatisticToolStripMenuItem.Click += new System.EventHandler(this.viewStatisticToolStripMenuItem_Click);
             // 
             // settingsToolStripMenuItem
             // 
@@ -254,14 +255,12 @@ namespace GeekSync4Band
             this.copyDeviceMacToolStripMenuItem});
             this.contextMenuStrip2.Name = "contextMenuStrip2";
             this.contextMenuStrip2.Size = new System.Drawing.Size(167, 48);
-            this.contextMenuStrip2.Opening += new System.ComponentModel.CancelEventHandler(this.contextMenuStrip2_Opening);
             // 
             // removeToolStripMenuItem
             // 
             this.removeToolStripMenuItem.Name = "removeToolStripMenuItem";
             this.removeToolStripMenuItem.Size = new System.Drawing.Size(166, 22);
             this.removeToolStripMenuItem.Text = "Remove";
-            this.removeToolStripMenuItem.Click += new System.EventHandler(this.removeToolStripMenuItem_Click);
             // 
             // copyDeviceMacToolStripMenuItem
             // 
@@ -317,7 +316,6 @@ namespace GeekSync4Band
             this.listView1.TabIndex = 11;
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.View = System.Windows.Forms.View.Details;
-            this.listView1.SelectedIndexChanged += new System.EventHandler(this.listView1_SelectedIndexChanged);
             // 
             // columnHeader1
             // 
@@ -364,7 +362,6 @@ namespace GeekSync4Band
             this.comboBox1.Size = new System.Drawing.Size(163, 21);
             this.comboBox1.Soreted = false;
             this.comboBox1.TabIndex = 9;
-            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // listView2
             // 
@@ -1523,6 +1520,7 @@ namespace GeekSync4Band
             this.button9.Tag = "";
             this.button9.Text = "Write";
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button10
             // 
@@ -1779,7 +1777,7 @@ namespace GeekSync4Band
             this.neoTabWindow1.Location = new System.Drawing.Point(0, 0);
             this.neoTabWindow1.Name = "neoTabWindow1";
             this.neoTabWindow1.RendererName = "";
-            this.neoTabWindow1.SelectedIndex = 1;
+            this.neoTabWindow1.SelectedIndex = 2;
             this.neoTabWindow1.Size = new System.Drawing.Size(824, 483);
             this.neoTabWindow1.TabIndex = 7;
             this.neoTabWindow1.SelectedIndexChanged += new System.EventHandler<NeoTabControlLibrary.SelectedIndexChangedEventArgs>(this.neoTabWindow1_SelectedIndexChanged);
