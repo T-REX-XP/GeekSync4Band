@@ -19,8 +19,8 @@ OS: Windows XP/7/8/10
 - Iwown x5
 
 **Features:**
-1) Autosync with sync PC app on Connect band to USB
-2) Offline work (without any internet / cloud connection)
-3) Autosync time if Connect band to USB (use options)
-4) Cloud sync to Viddon cloud (like default Windows App) (use options)
-5)
+
+ 1. Autosync with sync PC app on Connect band to USB
+ 2. Offline work (without any internet / cloud connection)
+ 3. Autosync time if Connect band to USB (use options)
+ 4. Cloud sync to Viddon cloud (like default Windows App) (use options)
